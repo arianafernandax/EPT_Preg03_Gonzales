@@ -16,7 +16,7 @@ int main(){
 	system("pause");
 	cout<<"-----------------------------------------------------------------------------------------------------";
 	cout<< "\nPregunta 03: Un Drone policial se encuentra en el punto C \ny se desplaza hasta el punto D para perseguir al automovil robado.\nSe tiene como dato que la distancia entre el Drone y el auto chocado es de 15 metros.\nHallar la distancia recorrida por el Drone teniendo en cuenta que el Drone y el auto\nparten de un mismo punto a diferentes alturas. ";
-	cout<< "\n\nRespuesta:  \n\n";
+	cout<< "\n\nRespuesta:  22\n\n";
 	system("pause");
 	cout<<"-----------------------------------------------------------------------------------------------------";
 	cout<< "\nPregunta 04: Calcular el área del trapecio formado por \nlos puntos A,B,C y D en dicha gráfica. ";
